@@ -4,7 +4,7 @@
   <img src="readme-res/personal-logo.svg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>HelloRails React Readme</b></h3>
+  <h3><b>Hello Rails Back End Readme</b></h3>
 
 </div>
 
@@ -31,9 +31,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 HelloRails React <a name="about-project"></a>
+# 📖 Hello Rails Back End <a name="about-project"></a>
 
-**HelloRails React** is a Rails and React application. React frontend is developed in the same application using Webpack. 
+**Hello Rails Back End** is a Rails only API application that generates a random greeting. [The React front end](https://github.com/ram1117/hello-rails-front-end) part of this project
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,12 +52,7 @@
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
-<summary>Front End</summary>
-  <ul>
-    <li><a href="https://react.dev/">React</a></li>
-    <li><a href="https://redux.js.org/">Redux</a></li>
-  </ul>
-</details>
+
 
 <!-- Features -->
 
@@ -94,7 +89,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd desired-folder
-  git clone https://github.com/ram1117/hellorails-react
+  git clone https://github.com/ram1117/hello-rails-back-end
 ```
 
 
@@ -103,9 +98,8 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd hellorails-react
+  cd hello-rails-back-end
   bundle install
-  yarn install
 ```
 
 ### Usage
@@ -113,8 +107,7 @@ Install this project with:
 To run the development server, execute the following command:
 
 ```sh
-  rails server or
-  ./bin/dev
+  rails server
 ```
 
 ### Deployment
@@ -143,7 +136,7 @@ You can deploy this project on Render. Please follow [this render deployment gui
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ram1117/hellorails-react/issues/).
+Feel free to check the [issues page](https://github.com/ram1117/hello-rails-back-end/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,7 +144,7 @@ Feel free to check the [issues page](https://github.com/ram1117/hellorails-react
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, please ⭐️ [the project repo](https://github.com/ram1117/hellorails-react). This will highly motivate me.
+If you like this project, please ⭐️ [the project repo](https://github.com/ram1117/hello-rails-back-end). This will highly motivate me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
